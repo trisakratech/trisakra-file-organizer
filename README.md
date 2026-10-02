@@ -54,6 +54,33 @@ The application window should open.
 
 **Tip:** Review the preview carefully before organizing files. Consider testing with a sample folder first.
 
+## Screenshots
+
+### Main Window
+
+![TRISAKRA FILE ORGANIZER - Main Window](screenshots/Main%20Window.png)
+
+### File Preview
+
+![TRISAKRA FILE ORGANIZER - File Preview](screenshots/File%20Preview.png)
+
+### Organizing Files
+
+![TRISAKRA FILE ORGANIZER - Organizing Files](screenshots/Organise%20files.png)
+
+### Files Organized
+
+![TRISAKRA FILE ORGANIZER - Files Organized](screenshots/Files%20Organised.png)
+
+### Undo Confirmation
+
+![TRISAKRA FILE ORGANIZER - Undo Confirmation](screenshots/Operation%20Undo.png)
+
+### Undo Completed
+
+![TRISAKRA FILE ORGANIZER - Undo Completed](screenshots/Undo%20Done.png)
+
+
 ## Project Structure
 
 ```text
